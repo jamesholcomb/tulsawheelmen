@@ -1,3 +1,5 @@
 url: http://www.tulsawheelmen.com
 name: Tulsa Wheelmen
 description: 'Tulsa&#039;s Premier Cycling Race Club'
+
+theme: jekyll-theme-cayman
